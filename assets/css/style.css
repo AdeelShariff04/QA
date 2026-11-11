@@ -62,7 +62,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     content: "";
     left: -62px;
     top: 0px;
-    background: #ff5e14;
+    background: #9bc2e6;
     width: 37%;
     height: 110%;
     z-index: -1;
@@ -130,7 +130,7 @@ nav.consen_menu span {
 }
 
 .consen_menu>ul>li>a:hover {
-    color: #ff5e14;
+    color: #519BE1;
 }
 
 nav.consen_menu a:hover span {
@@ -150,7 +150,7 @@ nav.consen_menu a:hover span {
 .header-button a {
     font-size: 18px;
     font-weight: 500;
-    color: #ff5e14;
+    color: #519BE1;
     display: inline-block;
     font-family: 'Yantramanav';
     position: relative;
@@ -194,7 +194,7 @@ nav.consen_menu a:hover span {
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
     transition: .5s;
     visibility: hidden;
-    border-top: 2px solid #ff5e14;
+    border-top: 2px solid #519BE1;
     opacity: 0;
 }
 
@@ -228,7 +228,7 @@ nav.consen_menu a:hover span {
 .consen_menu ul .sub-menu .sub-menu li:hover>a,
 .consen_menu ul .sub-menu .sub-menu .sub-menu li:hover>a,
 .consen_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover>a {
-    background: #ff5e14;
+    background: #519BE1;
     color: #fff !important;
 }
 
@@ -266,7 +266,7 @@ nav.consen_menu a:hover span {
 }
 
 ul.sub-menu li a span {
-    background: #ff5e14;
+    background: #519BE1;
     padding: 5px 8px 2px;
     color: #fff;
     opacity: 1;
@@ -336,7 +336,7 @@ ul.sub-menu li:hover a span {
 
 .consen_nav_manu.style-three .header-button a {
     border-radius: 0;
-    border: 1px solid #ff5e14;
+    border: 1px solid #519BE1;
 }
 
 .consen_nav_manu.style-three .header-button a:before {
@@ -381,7 +381,7 @@ ul.sub-menu li:hover a span {
 .slider-content h3 {
     font-size: 18px;
     font-weight: 500;
-    color: #ff5e14;
+    color: #519BE1;
     padding: 0px 5px 0px 55px;
     display: inline-block;
     border-radius: 5px;
@@ -409,7 +409,7 @@ ul.sub-menu li:hover a span {
 }
 
 .slider-content span {
-    color: #ff5e14;
+    color: #519BE1;
 }
 
 .hero-description p {
@@ -429,9 +429,9 @@ ul.sub-menu li:hover a span {
     font-weight: 500;
     font-size: 18px;
     color: #fff;
-    background: #ff5e14;
+    background: #519BE1;
     display: inline-block;
-    border: 2px solid #ff5e14;
+    border: 2px solid #519BE1;
     position: relative;
     z-index: 1;
     overflow: hidden;
@@ -475,7 +475,7 @@ ul.sub-menu li:hover a span {
 
 a.video-vemo-icon.play {
     font-size: 16px !important;
-    color: #ff5e14;
+    color: #519BE1;
     font-weight: 500;
     font-family: "Yantramanav";
     text-transform: uppercase;
@@ -615,7 +615,7 @@ a.video-vemo-icon.play {
     height: 77px;
     line-height: 77px;
     border-radius: 100%;
-    color: #ff5e14;
+    color: #519BE1;
     background: #fff;
     font-size: 28px;
     display: inline-block;
@@ -699,7 +699,7 @@ a.video-vemo-icon.play {
 .consen-section-title h4 {
     font-size: 16px;
     font-weight: 500;
-    color: #ff5e14;
+    color: #519BE1;
     margin: 0 0 15px 50px;
     position: relative;
     display: inline-block;
@@ -723,7 +723,7 @@ a.video-vemo-icon.play {
 }
 
 .consen-section-title span {
-    color: #ff5e14;
+    color: #519BE1;
 }
 
 .consen-section-title p {
@@ -764,7 +764,7 @@ a.video-vemo-icon.play {
     text-align: center;
     height: 79%;
     border-radius: 2px;
-    border-top: 2px solid #ff5e14;
+    border-top: 2px solid #519BE1;
 }
 
 .service-icon {
@@ -832,7 +832,7 @@ a.video-vemo-icon.play {
     height: 60px;
     line-height: 60px;
     border-radius: 30px;
-    background-color: #ff5e14;
+    background-color: #519BE1;
     text-align: center;
     display: inline-block;
 }
@@ -862,7 +862,7 @@ a.video-vemo-icon.play {
     background: #fff;
     margin-bottom: 30px;
     padding: 30px 30px 30px;
-    border-bottom: 3px solid #FF5E15;
+    border-bottom: 3px solid #519BE1;
     transition: .5s;
     text-align: left;
     border-radius: 5px;
@@ -945,10 +945,10 @@ p.service-desc {
 .service-btn a {
     display: inline-block;
     font-size: 16px;
-    color: #ff5e14;
+    color: #519BE1;
     font-weight: 500;
     font-family: "Yantramanav";
-    border-bottom: 1px solid #FF5D13;
+    border-bottom: 1px solid #519BE1;
     margin: 0;
 }
 
@@ -968,7 +968,7 @@ p.service-desc {
 /* all hover */
 
 .Indastre-service-single-item:hover .service-icon {
-    background: #FF5E15;
+    background: #519BE1;
 }
 
 .Indastre-service-single-item:hover .service-icon img {
@@ -1061,12 +1061,12 @@ p.service-desc {
 }
 
 .service-list .owl-prev:hover {
-    background: #FF5E15;
+    background: #519BE1;
     color: #fff;
 }
 
 .service-list .owl-next:hover {
-    background: #FF5E15;
+    background: #519BE1;
     color: #fff;
 }
 
@@ -1113,7 +1113,7 @@ p.service-desc {
     top: 0;
     width: 3px;
     height: 100%;
-    background: #ff5e14;
+    background: #519BE1;
     border-radius: 4px;
     transition: .5s;
     z-index: -1;
@@ -1153,7 +1153,7 @@ p.service-desc {
     font-size: 18px;
     font-weight: 500;
     font-family: 'Yantramanav';
-    background: #ff5e14;
+    background: #519BE1;
     color: #fff;
     display: inline-block;
     border-radius: 2px;
@@ -1244,6 +1244,7 @@ p.service-desc {
 .row.cntr-bg {
     padding: 61px 45px 35px;
     background: url(../images/resource/counter-bg.png);
+    filter: brightness(1) invert(1);
     border-radius: 5px;
     margin: -100px 0;
     position: relative;
@@ -1406,10 +1407,10 @@ p.service-desc {
     content: "";
     left: 0;
     top: 0;
-    border-bottom: 15px solid #FF5E15;
-    border-left: 15px solid #FF5E15;
-    border-top: 15px solid #FF5E15;
-    border-right: 15px solid #FF5E15;
+    border-bottom: 15px solid #519BE1;
+    border-left: 15px solid #519BE1;
+    border-top: 15px solid #519BE1;
+    border-right: 15px solid #519BE1;
     height: 100%;
     width: 100%;
     transition: .5s;
@@ -1536,7 +1537,7 @@ p.service-desc {
     left: 0px;
     z-index: 1;
     width: 101%;
-    background: #ff5e14;
+    background: #519BE1;
     padding: 120px 30px 45px;
     opacity: 0;
     transition: .7s;
@@ -1620,7 +1621,7 @@ a.prjct-btn:hover i {
     top: 0;
     width: 4px;
     height: 100%;
-    background: #ff5e14;
+    background: #519BE1;
     border-radius: 4px 0 0 4px;
     transition: .5s;
     z-index: -1;
@@ -1693,11 +1694,11 @@ a.prjct-btn:hover i {
     display: inline-block;
     width: 120px;
     height: 120px;
-    background-color: #ff5e14;
+    background-color: #519BE1;
     line-height: 120px;
     text-align: center;
     font-size: 16px;
-    color: #ff5e14;
+    color: #519BE1;
 }
 
 .choose-video-icon a i {
@@ -1774,7 +1775,7 @@ a.prjct-btn:hover i {
 }
 
 span.fill {
-    background: #FF5E15 !important;
+    background: #519BE1 !important;
 }
 
 .barfiller .fill {
@@ -1819,7 +1820,7 @@ span.fill {
     content: "";
     height: 100%;
     width: 0%;
-    background: #FF5E15;
+    background: #519BE1;
     left: 0;
     top: 0;
     z-index: -1;
@@ -1849,7 +1850,7 @@ span.fill {
 
 .form-contact-box {
     padding: 45px 50px 60px;
-    background: #ff5e14;
+    background: #519BE1;
     border-radius: 5px 0 5px 5px;
     position: relative;
     z-index: 1;
@@ -1924,7 +1925,7 @@ span.fill {
 }
 
 .quote_button button:hover {
-    color: #ff5e14;
+    color: #519BE1;
 }
 
 .quote_button button:hover:before {
@@ -1978,7 +1979,7 @@ ul.testi-rating:before {
     left: -18px;
     top: 0;
     right: 0;
-    background: #ff5e14;
+    background: #519BE1;
     width: 42px;
     height: 45px;
     line-height: 45px;
@@ -2028,7 +2029,7 @@ ul.testi-rating li {
     content: "";
     left: -40px;
     top: -10px;
-    background: #ff5e14;
+    background: #519BE1;
     width: 2px;
     height: 90px;
     z-index: -1;
@@ -2047,7 +2048,7 @@ ul.testi-rating li {
     font-size: 17px;
     font-weight: 500;
     margin-top: 5px;
-    color: #ff5e14;
+    color: #519BE1;
 }
 
 .quote-icon {
@@ -2069,7 +2070,7 @@ ul.testi-rating li {
 }
 
 .testi-single-box:hover .quote-icon i {
-    background-color: #ff5e14;
+    background-color: #519BE1;
 }
 
 /*Style two
@@ -2090,7 +2091,7 @@ ul.testi-rating li {
     top: 0;
     height: 100%;
     width: 48%;
-    background: #FF5E15;
+    background: #519BE1;
     z-index: -1;
 }
 
@@ -2128,7 +2129,7 @@ ul.testi-rating li {
 
 .testi-star i {
     font-size: 16px;
-    color: #ff5e14;
+    color: #519BE1;
     margin-right: 6px;
 }
 
@@ -2235,7 +2236,7 @@ span.testi-title {
 }
 
 .testi_list .owl-dot.active {
-    background: #FF5E15;
+    background: #519BE1;
 }
 
 
@@ -2299,7 +2300,7 @@ span.testi-title {
 
 .team-content h4 {
     font-size: 17px;
-    color: #ff5e14;
+    color: #519BE1;
     font-weight: 400;
 }
 
@@ -2312,7 +2313,7 @@ span.testi-title {
 .team-share-icn span i {
     width: 40px;
     height: 40px;
-    background-color: #ff5e14;
+    background-color: #519BE1;
     color: #fff;
     text-align: center;
     line-height: 40px;
@@ -2340,7 +2341,7 @@ span.testi-title {
 
 .team-social-icon ul li a {
     display: block;
-    background: #ff5e14;
+    background: #519BE1;
     height: 40px;
     width: 40px;
     line-height: 40px;
@@ -2379,12 +2380,12 @@ span.testi-title {
 
 .team-social-icon ul li a:hover {
     background: #fff;
-    color: #ff5e14;
+    color: #519BE1;
 }
 
 .team-single-box:hover .team-share-icn span i {
     background: #fff;
-    color: #ff5e14;
+    color: #519BE1;
 }
 
 
@@ -2403,7 +2404,7 @@ span.testi-title {
 
 .feature-signle-item {
     padding: 30px 40px 40px;
-    border-bottom: 4px solid #ff5e14;
+    border-bottom: 4px solid #519BE1;
     transition: .5s;
     background: #fff;
     position: relative;
@@ -2422,10 +2423,10 @@ span.testi-title {
     content: "";
     left: -3px;
     top: -3px;
-    border-top: 3px solid #ff5e14;
-    border-bottom: 10px solid #ff5e14;
-    border-left: 3px solid #ff5e14;
-    border-right: 10px solid #ff5e14;
+    border-top: 3px solid #519BE1;
+    border-bottom: 10px solid #519BE1;
+    border-left: 3px solid #519BE1;
+    border-right: 10px solid #519BE1;
     height: 106%;
     width: 103%;
     z-index: -1;
@@ -2465,7 +2466,7 @@ span.testi-title {
 h3.feature-namber {
     width: 50px;
     height: 50px;
-    background-color: #ff5e14;
+    background-color: #519BE1;
     line-height: 50px;
     font-size: 20px;
     color: #ffffff;
@@ -2574,7 +2575,7 @@ h3.feature-namber {
     content: "";
     left: -9px;
     top: -9px;
-    border: 1px solid #FB5910;
+    border: 1px solid #519BE1;
     width: 100%;
     height: 100%;
     border-radius: 5px;
@@ -2642,7 +2643,7 @@ h3.feature-namber {
     left: 0px;
     z-index: 1;
     width: 101%;
-    background: #ff5e14;
+    background: #519BE1;
     padding: 120px 30px 45px;
     opacity: 0;
     transition: .7s;
@@ -2693,7 +2694,7 @@ h3.feature-namber {
     font-size: 17px;
     font-weight: 500;
     font-family: 'Yantramanav';
-    color: #ff5e14;
+    color: #519BE1;
     padding: 10px 13px;
     text-align: center;
     border-radius: 1px;
@@ -2750,7 +2751,7 @@ h3.feature-namber {
 <--  Consen Subscribe Area Css -->
 ======================================================***/
 .call-to-action {
-    background: #ff5e14;
+    background: #519BE1;
     padding: 40px 0px 40px;
 }
 
@@ -2772,7 +2773,7 @@ h3.feature-namber {
     font-size: 18px;
     font-weight: 500;
     background: #fff;
-    color: #ff5e14;
+    color: #519BE1;
     display: inline-block;
     border-radius: 2px;
     position: relative;
@@ -2857,7 +2858,7 @@ h3.feature-namber {
 }
 
 .row.address {
-    background: #FF5E15;
+    background: #519BE1;
     padding: 46px 0 13px;
     border-radius: 0 0 10px 10px;
     margin-bottom: 104px;
@@ -2931,7 +2932,7 @@ spna.footer-date {
 }
 
 .footer-widget-social-icon ul li a i:hover {
-    color: #FF5E15;
+    color: #519BE1;
 }
 
 .footer-widget-titel h4 {
@@ -2960,7 +2961,7 @@ spna.footer-date {
 }
 
 .footer-widget-menu ul li a:hover {
-    color: #FF5E15;
+    color: #519BE1;
 }
 
 ul.footer-info {
@@ -3021,7 +3022,7 @@ ul.footer-info p {
     outline: 0;
     border: none;
     border-radius: 5px;
-    background: #FF5E15;
+    background: #519BE1;
     font-size: 18px;
     color: #ffffff;
     font-weight: 500;
@@ -3093,7 +3094,7 @@ ul.footer-info p {
 }
 
 .footer-bottom-menu ul li a:hover {
-    color: #FF5E15;
+    color: #519BE1;
 }
 
 /***
@@ -3267,13 +3268,13 @@ ul.footer-info p {
     position: relative;
     top: -24px;
     line-height: 68px;
-    color: #ff5e14;
+    color: #519BE1;
 }
 
 .pricing-item-text span {
     display: inline-block;
     font-size: 70px;
-    color: #ff5e14;
+    color: #519BE1;
     font-weight: 700;
     font-family: "Yantramanav";
 }
@@ -3327,7 +3328,7 @@ ul.footer-info p {
 
 .pricing-rcomnded span {
     font-size: 13px;
-    color: #ff5e14;
+    color: #519BE1;
     font-weight: 400;
     font-family: "Archivo";
     text-align: center;
@@ -3392,7 +3393,7 @@ p.pb_30 {
     background: #fff;
     padding: 33px 30px 15px;
     margin-bottom: 30px;
-    border-left: 3px solid #FF5D13;
+    border-left: 3px solid #519BE1;
     filter: drop-shadow(0px 5px 30px rgba(117, 117, 117, 0.1));
 }
 
@@ -3403,7 +3404,7 @@ p.pb_30 {
     top: 0;
     height: 100%;
     width: 0%;
-    background: #FF5D13;
+    background: #519BE1;
     z-index: -1;
     transition: .5s;
 }
@@ -3526,7 +3527,7 @@ ul.service-details-list li {
 
 ul.service-details-list li i {
     font-size: 20px;
-    color: #ff5e14;
+    color: #519BE1;
     position: relative;
     top: 2px;
     margin-right: 8px;
@@ -3563,7 +3564,7 @@ ul.service-details-list li i {
     left: 0;
     bottom: -23px;
     height: 2px;
-    background: #ff5e14;
+    background: #519BE1;
     width: 15px;
 }
 
@@ -3591,7 +3592,7 @@ ul.service-details-list li i {
     content: "";
     height: 100%;
     width: 0%;
-    background: #FF5E15;
+    background: #519BE1;
     left: 0;
     top: 0;
     z-index: -1;
@@ -3619,7 +3620,7 @@ ul.service-details-list li i {
     float: right;
     font-size: 16px;
     margin-top: 0px;
-    color: #FF5E15;
+    color: #519BE1;
     transition: .5s;
     font-weight: 600;
 }
@@ -3667,7 +3668,7 @@ ul.service-details-list li i {
     float: right;
     font-size: 20px;
     margin-top: 2px;
-    color: #FF5E15;
+    color: #519BE1;
 }
 
 .pdf-button a img {
@@ -3732,7 +3733,7 @@ ul.accordion.style1 li a span:before {
 .accordion.style1 a:after {
     width: 10px;
     height: 2px;
-    background: #FF3C00;
+    background: #519BE1;
     position: absolute;
     right: 34px;
     content: " ";
@@ -3744,7 +3745,7 @@ ul.accordion.style1 li a span:before {
 .accordion.style1 a:before {
     width: 2px;
     height: 10px;
-    background: #FF3C00;
+    background: #519BE1;
     position: absolute;
     right: 38px;
     content: " ";
@@ -3755,7 +3756,7 @@ ul.accordion.style1 li a span:before {
 }
 
 .accordion a.active {
-    color: #FF3C00 !important;
+    color: #519BE1 !important;
 }
 
 .accordion a.active:after {
@@ -3767,7 +3768,7 @@ ul.accordion.style1 li a span:before {
 }
 
 ul.accordion.style1 li a.active span:before {
-    background: #ff5e14;
+    background: #519BE1;
 }
 
 
@@ -3855,7 +3856,7 @@ ul.accordion.style1 li a.active span:before {
 .portfolio_nav ul li:hover,
 .portfolio_nav ul li.current_menu_item {
     color: #fff;
-    background: #ff5e14;
+    background: #519BE1;
 
 }
 
@@ -3886,7 +3887,7 @@ ul.accordion.style1 li a.active span:before {
     width: 90%;
     padding: 19px 0 24px;
     text-align: left;
-    border-left: 3px solid #FF5E15;
+    border-left: 3px solid #519BE1;
     padding-left: 30px;
     left: 20px;
     transition: .5s;
@@ -3904,7 +3905,7 @@ ul.accordion.style1 li a.active span:before {
 .case-title span a {
     display: inline-block;
     font-size: 18px;
-    color: #ff5e14;
+    color: #519BE1;
     font-weight: 400;
     font-family: "Yantramanav";
 }
@@ -3975,7 +3976,7 @@ p.style1 {
 }
 
 .porject-list ul li i {
-    color: #ff5e14;
+    color: #519BE1;
     font-size: 20px;
     margin-right: 12px;
 }
@@ -3999,7 +4000,7 @@ p.style1 {
     color: #ffffff;
     font-weight: 700;
     font-family: "Yantramanav";
-    background: #ff5e14;
+    background: #519BE1;
     padding: 23px 40px 23px;
 }
 
@@ -4030,7 +4031,7 @@ p.style1 {
 }
 
 .case-info-icon span i {
-    color: #ff5e14;
+    color: #519BE1;
 }
 
 .case-info-address {
@@ -4078,7 +4079,7 @@ h3.name-title {
     left: 0;
     bottom: -23px;
     height: 2px;
-    background: #ff5e14;
+    background: #519BE1;
     width: 15px;
 }
 
@@ -4105,7 +4106,7 @@ p.share-text {
 }
 
 .csd-social-icon ul li a:hover {
-    background: #ff5e14;
+    background: #519BE1;
     color: #fff;
 }
 
@@ -4156,7 +4157,7 @@ p.share-text {
     background-color: #ffffff;
     line-height: 50px;
     text-align: center;
-    color: #ff5e14;
+    color: #519BE1;
     font-size: 16px;
 }
 
@@ -4175,7 +4176,7 @@ h3.pagination-title {
 
 .pagination-content span {
     font-size: 17px;
-    color: #ff5e14;
+    color: #519BE1;
     font-weight: 400;
     font-family: "Archivo";
 }
@@ -4204,7 +4205,7 @@ h3.pagination-title {
     line-height: 100px;
     display: inline-block;
     font-size: 30px;
-    color: #ff5e14;
+    color: #519BE1;
     margin-bottom: 18px;
     width: 100px;
     height: 100px;
@@ -4234,7 +4235,7 @@ h3.call-do-title {
 }
 
 .single-call-do-box:hover .single-call-do-icon i {
-    background: #ff5e14;
+    background: #519BE1;
     color: #fff;
 }
 
@@ -4293,7 +4294,7 @@ h3.call-do-title {
     color: #ffffff;
     font-weight: 500;
     font-family: "Yantramanav";
-    background: #FF5E15;
+    background: #519BE1;
     border-radius: 0;
     padding: 16px 38px;
     position: relative;
@@ -4485,7 +4486,7 @@ button.btn:hover {
 }
 
 .blog-title h3 a:hover {
-    color: #FF5D13;
+    color: #519BE1;
 }
 
 .blog-btn {
@@ -4520,18 +4521,18 @@ button.btn:hover {
 
 /* all hover */
 .single-blog-box:hover .blog-contents {
-    border-bottom: 4px solid #FF5D13;
+    border-bottom: 4px solid #519BE1;
     background-color: #fff;
     filter: drop-shadow(0px 10px 20px rgba(137, 137, 137, 0.15));
 }
 
 .single-blog-box:hover .blog-btn a {
-    color: #FF5D13;
+    color: #519BE1;
 }
 
 .single-blog-box:hover .blog-btn a i {
     color: #fff;
-    background: #FF5D13;
+    background: #519BE1;
 
 }
 
@@ -4562,7 +4563,7 @@ input.src-input-box::placeholder {
     transform: translateY(-50%);
     font-size: 15px;
     border: none;
-    background: #FF5E15;
+    background: #519BE1;
     padding: 17px 25px;
     color: #fff;
 }
@@ -4627,7 +4628,7 @@ input.src-input-box::placeholder {
     top: 45px !important;
     width: 15px;
     height: 2px;
-    background-color: #ff5e14;
+    background-color: #519BE1;
     animation-duration: 5s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
@@ -4673,12 +4674,12 @@ input.src-input-box::placeholder {
 }
 
 .catagory-item ul li:hover a {
-    color: #FF5E15;
+    color: #519BE1;
 }
 
 
 .catagory-item ul li a i {
-    color: #FF5E15;
+    color: #519BE1;
     font-size: 15px;
     margin-right: 14px;
 }
@@ -4711,7 +4712,7 @@ input.src-input-box::placeholder {
 }
 
 .rpost-title h4:hover {
-    color: #FF5E15;
+    color: #519BE1;
 }
 
 /*tag menu*/
@@ -4735,7 +4736,7 @@ input.src-input-box::placeholder {
 
 .tag-item a:hover {
     color: #fff;
-    background: #FF5E15;
+    background: #519BE1;
 }
 
 /*pagination*/
@@ -4763,7 +4764,7 @@ input.src-input-box::placeholder {
 }
 
 .pagination a:hover {
-    background: #FF5E15;
+    background: #519BE1;
     color: #fff;
 
 }
@@ -4816,7 +4817,7 @@ input.src-input-box::placeholder {
 }
 
 .blog-meta span a:hover {
-    color: #FF5E15;
+    color: #519BE1;
 }
 
 .blog-content-text.text-left h2 {
@@ -4852,7 +4853,7 @@ p.qouik2 {
 
 h3.blog-details-title {
     font-size: 22px;
-    color: #ff5e14;
+    color: #519BE1;
     font-weight: 700;
     font-family: "Yantramanav";
     text-align: center;
@@ -4956,7 +4957,7 @@ ul.blog-details-list img {
 
 .single-blog-social-icon ul li:hover i {
     color: #fff;
-    background: #ff5e14;
+    background: #519BE1;
 }
 
 
@@ -5022,7 +5023,7 @@ ul.blog-details-list img {
     border-radius: 2px;
     display: inline-block;
     font-size: 16px;
-    color: #ff5e14;
+    color: #519BE1;
     font-weight: 500;
     font-family: "Yantramanav";
 }
@@ -5082,15 +5083,15 @@ input.comment-box::placeholder {
 
 .comment-box:focus,
 #comment-msg-box:focus {
-    border-color: #FF5E15;
+    border-color: #519BE1;
     outline: 0;
     box-shadow: 0 0 6px rgb(204, 48, 0, 0.6);
 }
 
 /*form button*/
 .comment-form .submit-comment {
-    background: #FF5E15;
-    border: 1px solid #FF5E15;
+    background: #519BE1;
+    border: 1px solid #519BE1;
     padding: 14px 39px;
     margin-left: 15px;
     transition: .5s;
@@ -5103,7 +5104,7 @@ input.comment-box::placeholder {
 
 .comment-form .submit-comment:hover {
     background: #fff;
-    color: #FF5E15;
+    color: #519BE1;
 }
 
 
@@ -5500,7 +5501,7 @@ input.comment-box::placeholder {
     bottom: 6px;
     border-radius: 50%;
     border: 3px solid transparent;
-    border-left-color: #ff5e14;
+    border-left-color: #519BE1;
     -webkit-animation: spin 2s linear infinite;
     -moz-animation: spin 2s linear infinite;
     -o-animation: spin 2s linear infinite;
@@ -5649,7 +5650,7 @@ input.comment-box::placeholder {
     text-align: center;
     line-height: 46px;
     font-size: 18px;
-    color: #ff5e14;
+    color: #519BE1;
     left: 0;
     top: 0;
     height: 46px;
@@ -5696,7 +5697,7 @@ input.comment-box::placeholder {
 }
 
 .prgoress_indicator svg.progress-circle path {
-    stroke: #ff5e14;
+    stroke: #519BE1;
     stroke-width: 4;
     box-sizing: border-box;
     transition: all 200ms linear !important;
@@ -5717,7 +5718,7 @@ input.comment-box::placeholder {
     z-index: 99999;
     margin-top: -540px;
     transform: translateY(-100%);
-    background-color: rgba(253, 127, 75, 0.90);
+    background-color: rgba(155, 194, 230, 0.75);
     -webkit-transition: all 500ms cubic-bezier(0.860, 0.000, 0.070, 1.000);
     -moz-transition: all 500ms cubic-bezier(0.860, 0.000, 0.070, 1.000);
     -o-transition: all 500ms cubic-bezier(0.860, 0.000, 0.070, 1.000);
@@ -5747,7 +5748,7 @@ input.comment-box::placeholder {
     margin-top: -200px;
     border-radius: 50%;
     text-align: center;
-    background-color: #FD7F4B;
+    background-color: #519BE1;
     width: 70px;
     cursor: pointer;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
@@ -5870,7 +5871,7 @@ input.comment-box::placeholder {
 .search-box-btn {
     display: inline-block;
     padding: 0 20px 0 20px;
-    border-right: 1px solid #ff5e14;
+    border-right: 1px solid #9bc2e6;
     margin-right: 20px;
 }
 
@@ -5913,7 +5914,7 @@ span.flaticon-multiply i {
     left: 0;
     width: 50px;
     height: 50px;
-    border: 1px solid #ff5e14;
+    border: 1px solid #519BE1;
     border-radius: 50%;
     pointer-events: none;
     transform: translate(-50%, -50%);
@@ -5927,7 +5928,7 @@ span.flaticon-multiply i {
     left: 0;
     width: 6px;
     height: 6px;
-    background: #ff5e14;
+    background: #9bc2e6;
     border-radius: 50%;
     pointer-events: none;
     transform: translate(-50%, -50%);
@@ -5975,7 +5976,7 @@ span.flaticon-multiply i {
 .section-title h4 {
     font-size: 16px;
     line-height: 29px;
-    color: #ff5e14;
+    color: #519BE1;
     font-weight: 500;
     text-transform: uppercase;
 }
@@ -6017,7 +6018,7 @@ p.section-desc {
 }
 
 .company-item-text p {
-    background: #ff5e14;
+    background: #519BE1;
     color: #fff;
     font-size: 18px;
     font-weight: 400;
@@ -6040,20 +6041,21 @@ p.section-desc {
     height: 65px;
     text-align: center;
     line-height: 53px;
-    background: #ffefe7;
+    background: #9bc2e6;
     border-radius: 50%;
     transition: .5s;
-    border-top: 5px solid #FF5D13;
+    border-top: 5px solid #519BE1;
 }
 
 .company-box-item:hover .company-box-icon {
     height: 60px;
     border-top: 0px solid transparent;
-    background: #FF5D13;
+    background: #519BE1;
 
 }
 
 .company-box-icon img {
+    filter: brightness(0) invert(0);
     transition: .5s;
 }
 
@@ -6070,7 +6072,7 @@ p.section-desc {
 }
 
 .company-box-item:hover .company-content h4 {
-    color: #FF5D13;
+    color: #519BE1;
 }
 
 .company-content p {
@@ -6103,7 +6105,7 @@ p.section-desc {
     text-align: center;
     line-height: 72px;
     border-radius: 50%;
-    color: #ff5e14;
+    color: #519BE1;
     font-weight: 700;
     font-family: "Yantramanav";
     font-size: 16px;
@@ -6166,7 +6168,7 @@ p.section-desc {
 
 .our-exprience h4 {
     font-size: 85px;
-    color: #ff5e14;
+    color: #519BE1;
     font-weight: 800;
     font-family: "Archivo";
     display: inline-block;
@@ -6174,7 +6176,7 @@ p.section-desc {
 
 .our-exprience span {
     display: inline-block;
-    color: #ff5e14;
+    color: #519BE1;
     font-size: 24px;
     font-weight: 700;
     position: relative;
@@ -6238,7 +6240,7 @@ p.section-desc {
 }
 
 .single-choose-us-box {
-    background: #FF5E15;
+    background: #519BE1;
     padding: 42px 47px 59px;
     border-radius: 5px;
     width: 93%;
@@ -6356,18 +6358,18 @@ h2.accordion-title {
 
 a.active i {
     transform: rotate(177deg) !important;
-    color: #FF5E15 !important;
+    color: #519BE1 !important;
 }
 
 .accordion a.active {
     padding: 0 20px 22px 0px;
     width: 82%;
-    color: #FF5E15;
+    color: #519BE1;
 }
 
 .contact-button a {
     display: inline-block;
-    background: #FF5E15;
+    background: #519BE1;
     color: #fff;
     padding: 12px 33px;
     border-radius: 5px;
@@ -6375,12 +6377,12 @@ a.active i {
     margin-top: 13px;
     position: relative;
     z-index: 1;
-    border: 1px solid #FF5E15;
+    border: 1px solid #519BE1;
     transition: 0.5s;
 }
 
 .contact-button a:hover {
-    color: #FF5E15;
+    color: #519BE1;
 }
 
 .contact-button a:before {
@@ -6412,7 +6414,7 @@ a.active i {
 }
 
 .contact-button a:hover i {
-    color: #FF5E15;
+    color: #519BE1;
 }
 
 /*---=================================
@@ -6460,7 +6462,7 @@ p.section-description.style-left {
     color: #ffffff;
     font-weight: 500;
     font-family: "Yantramanav";
-    background: #FF5E15;
+    background: #519BE1;
     padding: 15px 33px;
     position: relative;
     z-index: 1;
@@ -6516,7 +6518,7 @@ p.section-description.style-left {
     background: #fff;
     margin-bottom: 30px;
     padding: 30px 30px 30px;
-    border-bottom: 3px solid #FF5E15;
+    border-bottom: 3px solid #519BE1;
     transition: .5s;
     text-align: left;
     position: relative;
@@ -6556,6 +6558,7 @@ p.section-description.style-left {
     text-align: center;
     margin-bottom: 25px;
     transition: .5s;
+    filter: brightness(1) invert(1);
 }
 
 .service-icon img {
@@ -6583,7 +6586,7 @@ h3.service-title:before {
     top: 45px;
     width: 40px;
     height: 2px;
-    background: #ff5e14;
+    background: #519BE1;
     z-index: -1;
     transition: .5s;
 }
@@ -6617,10 +6620,10 @@ p.service-desc {
 .service-btn a {
     display: inline-block;
     font-size: 16px;
-    color: #ff5e14;
+    color: #519BE1;
     font-weight: 500;
     font-family: "Yantramanav", sans-serif;
-    border-bottom: 1px solid #FF5D13;
+    border-bottom: 1px solid #519BE1;
     margin: 0;
 }
 
@@ -6640,7 +6643,7 @@ p.service-desc {
 
 /* Service item hover states */
 .Indastre-service-single-item:hover .service-icon {
-    background: #FF5E15;
+    background: #519BE1;
 }
 
 .Indastre-service-single-item:hover .service-icon img {
@@ -6716,7 +6719,7 @@ p.service-desc {
 
 .service-list .owl-prev:hover,
 .service-list .owl-next:hover {
-    background: #FF5E15;
+    background: #519BE1;
     color: #fff;
 }
 
@@ -6760,11 +6763,11 @@ p.service-desc {
     display: inline-block;
     width: 120px;
     height: 120px;
-    background-color: #ff5e14;
+    background-color: #519BE1;
     line-height: 120px;
     text-align: center;
     font-size: 16px;
-    color: #ff5e14;
+    color: #519BE1;
 }
 
 .choose-video-icon a i {
@@ -6840,7 +6843,7 @@ p.service-desc {
 }
 
 span.fill {
-    background: #FF5E15 !important;
+    background: #519BE1 !important;
 }
 
 .barfiller .fill {
@@ -6885,7 +6888,7 @@ span.fill {
     content: "";
     height: 100%;
     width: 0%;
-    background: #FF5E15;
+    background: #519BE1;
     left: 0;
     top: 0;
     z-index: -1;
@@ -6932,10 +6935,10 @@ span.fill {
     content: "";
     left: 0;
     top: 0;
-    border-bottom: 15px solid #FF5E15;
-    border-left: 15px solid #FF5E15;
-    border-top: 15px solid #FF5E15;
-    border-right: 15px solid #FF5E15;
+    border-bottom: 15px solid #519BE1;
+    border-left: 15px solid #519BE1;
+    border-top: 15px solid #519BE1;
+    border-right: 15px solid #519BE1;
     height: 100%;
     width: 100%;
     transition: .5s;
@@ -6951,6 +6954,7 @@ span.fill {
     content: "";
     right: -84%;
     background: url(../images/resource/feature_shape.png);
+    filter: brightness(0) invert(0);
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
