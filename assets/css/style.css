@@ -694,6 +694,7 @@ a.video-vemo-icon.play {
     margin: 0;
     font-weight: 900;
     line-height: 55px;
+    color: #9bc2e6;
 }
 
 .consen-section-title h4 {
@@ -1244,7 +1245,6 @@ p.service-desc {
 .row.cntr-bg {
     padding: 61px 45px 35px;
     background: url(../images/resource/counter-bg.png);
-    filter: brightness(1) invert(1);
     border-radius: 5px;
     margin: -100px 0;
     position: relative;
@@ -1289,7 +1289,7 @@ p.service-desc {
     left: 188px;
     width: 1px;
     height: 110px;
-    background-color: #ffffff66;
+    background-color: #0b122f;
 }
 
 .counter-single-item-inner.style-two .counter-text.style-two h1::before {
@@ -1300,7 +1300,7 @@ p.service-desc {
     margin: 0;
     opacity: 0.800;
     font-size: 18px;
-    color: #ffffff;
+    color: #0b122f;
     font-weight: 400;
     font-family: "Yantramanav";
 }
@@ -1350,7 +1350,7 @@ p.service-desc {
 .counter-text span {
     font-weight: 700;
     font-size: 50px;
-    color: #fff;
+    color: #0b122f;
     font-family: Yantramanav;
 }
 
@@ -3140,8 +3140,9 @@ ul.footer-info p {
 <!-- Consen Breadcumb Area Css -->
 ==================================================-*/
 .breadcumb-section {
-    background: url(https://html.ditsolution.net/industry/indastre8/assets/images/resource/breadcrumb.jpg) no-repeat center/cover;
-    height: 480px;
+    /* background: url(https://html.ditsolution.net/industry/indastre8/assets/images/resource/breadcrumb.jpg) no-repeat center/cover; */
+    background: url(../images/resource/hero-inner.png) no-repeat center/cover;
+    height: 450px;
     position: relative;
 }
 
@@ -3427,6 +3428,7 @@ p.pb_30 {
 
 .service-details-icon img {
     transition: .5s;
+    filter: brightness(1)invert(1);
 }
 
 .service-details-title h4 {
@@ -3673,6 +3675,7 @@ ul.service-details-list li i {
 
 .pdf-button a img {
     margin-right: 10px;
+    filter: brightness(1)invert(1);
 }
 
 
@@ -4249,9 +4252,9 @@ h3.call-do-title {
 
 .contact_from_box {
     box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.1);
-    background: #171717;
+    background: #0b122f;
     padding: 67px 50px 80px;
-    border-top: 5px solid #FF5F15;
+    border-top: 5px solid #519BE1;
 }
 
 .form_box input {
@@ -5485,7 +5488,7 @@ input.comment-box::placeholder {
     border-radius: 50%;
     transition: all 1s 1s ease;
     border: 3px solid transparent;
-    border-top-color: #9A241C;
+    border-top-color: #9bc2e6;
     -webkit-animation: spin 1.5s linear infinite;
     -moz-animation: spin 1.5s linear infinite;
     -o-animation: spin 1.5s linear infinite;
@@ -6558,11 +6561,10 @@ p.section-description.style-left {
     text-align: center;
     margin-bottom: 25px;
     transition: .5s;
-    filter: brightness(1) invert(1);
 }
 
 .service-icon img {
-    filter: brightness(1) invert(0);
+    filter: brightness(1) invert();
     transition: .5s;
     display: inline-block !important;
 }
